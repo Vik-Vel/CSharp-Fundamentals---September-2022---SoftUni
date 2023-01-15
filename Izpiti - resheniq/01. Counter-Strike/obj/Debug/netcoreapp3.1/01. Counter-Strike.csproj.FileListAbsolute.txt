@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.genruntimeconfig.cache

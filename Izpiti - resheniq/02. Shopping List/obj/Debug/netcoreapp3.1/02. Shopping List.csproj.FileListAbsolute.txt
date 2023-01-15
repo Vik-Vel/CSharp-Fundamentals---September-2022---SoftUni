@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\bin\Debug\netcoreapp3.1\02. Shopping List.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. Shopping List\obj\Debug\netcoreapp3.1\02. Shopping List.genruntimeconfig.cache

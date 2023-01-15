@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\01. Bonus Scoring System\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.genruntimeconfig.cache

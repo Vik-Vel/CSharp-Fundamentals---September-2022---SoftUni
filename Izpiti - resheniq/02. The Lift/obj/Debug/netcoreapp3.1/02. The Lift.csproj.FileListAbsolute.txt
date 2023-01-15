@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.genruntimeconfig.cache

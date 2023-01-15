@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.genruntimeconfig.cache

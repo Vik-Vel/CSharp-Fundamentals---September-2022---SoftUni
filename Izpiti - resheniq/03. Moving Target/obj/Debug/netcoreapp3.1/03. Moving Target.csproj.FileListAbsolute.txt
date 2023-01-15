@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\bin\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\04. Programming Fundamentals Mid Exam\03. Moving Target\obj\Debug\netcoreapp3.1\03. Moving Target.genruntimeconfig.cache

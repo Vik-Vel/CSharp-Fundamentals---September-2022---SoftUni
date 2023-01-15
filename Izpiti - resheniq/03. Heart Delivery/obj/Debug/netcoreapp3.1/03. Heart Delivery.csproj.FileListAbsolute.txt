@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Izpiti - resheniq\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.genruntimeconfig.cache

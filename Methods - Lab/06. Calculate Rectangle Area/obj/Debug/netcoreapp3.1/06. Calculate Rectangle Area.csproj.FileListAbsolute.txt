@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\netcoreapp3.1\06. Calculate Rectangle Area.genruntimeconfig.cache
