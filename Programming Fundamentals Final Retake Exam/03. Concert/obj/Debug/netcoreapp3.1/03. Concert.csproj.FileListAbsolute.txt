@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\bin\Debug\netcoreapp3.1\03. Concert.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\bin\Debug\netcoreapp3.1\03. Concert.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\bin\Debug\netcoreapp3.1\03. Concert.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\bin\Debug\netcoreapp3.1\03. Concert.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\bin\Debug\netcoreapp3.1\03. Concert.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\bin\Debug\netcoreapp3.1\03. Concert.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\03. Concert\obj\Debug\netcoreapp3.1\03. Concert.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\bin\Debug\netcoreapp3.1\02. Ad Astra.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\02. Ad Astra\obj\Debug\netcoreapp3.1\02. Ad Astra.genruntimeconfig.cache

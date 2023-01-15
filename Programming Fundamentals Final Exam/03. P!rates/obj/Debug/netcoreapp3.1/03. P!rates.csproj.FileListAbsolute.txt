@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Exam\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\bin\Debug\netcoreapp3.1\01. Registration.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\bin\Debug\netcoreapp3.1\01. Registration.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\bin\Debug\netcoreapp3.1\01. Registration.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\bin\Debug\netcoreapp3.1\01. Registration.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\bin\Debug\netcoreapp3.1\01. Registration.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\bin\Debug\netcoreapp3.1\01. Registration.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Programming Fundamentals Final Retake Exam\01. Registration\obj\Debug\netcoreapp3.1\01. Registration.genruntimeconfig.cache
