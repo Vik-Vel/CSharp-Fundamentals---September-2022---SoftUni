@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.genruntimeconfig.cache

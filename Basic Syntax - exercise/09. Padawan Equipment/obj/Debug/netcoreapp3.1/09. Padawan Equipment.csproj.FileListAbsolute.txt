@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\bin\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\09. Padawan Equipment\obj\Debug\netcoreapp3.1\09. Padawan Equipment.genruntimeconfig.cache

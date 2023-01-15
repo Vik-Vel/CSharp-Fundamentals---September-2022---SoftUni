@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Basic Syntax - exercise\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.genruntimeconfig.cache
