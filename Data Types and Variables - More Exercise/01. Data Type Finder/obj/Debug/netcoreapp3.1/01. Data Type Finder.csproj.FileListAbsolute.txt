@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.genruntimeconfig.cache

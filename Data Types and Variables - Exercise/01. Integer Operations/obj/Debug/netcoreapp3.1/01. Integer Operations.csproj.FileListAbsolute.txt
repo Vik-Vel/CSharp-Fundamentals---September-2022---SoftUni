@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.genruntimeconfig.cache
