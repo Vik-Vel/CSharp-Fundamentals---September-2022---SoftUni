@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\bin\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Associative Arrays - Exercise\02. A Miner Task\obj\Debug\netcoreapp3.1\02. A Miner Task.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.genruntimeconfig.cache

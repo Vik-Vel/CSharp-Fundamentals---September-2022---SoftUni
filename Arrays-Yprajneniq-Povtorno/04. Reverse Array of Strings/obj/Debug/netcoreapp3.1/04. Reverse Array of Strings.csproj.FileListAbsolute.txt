@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Arrays-Yprajneniq-Povtorno\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.genruntimeconfig.cache
