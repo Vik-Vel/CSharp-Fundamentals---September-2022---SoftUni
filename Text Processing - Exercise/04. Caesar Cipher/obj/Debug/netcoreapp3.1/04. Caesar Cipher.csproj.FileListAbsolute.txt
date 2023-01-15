@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.genruntimeconfig.cache

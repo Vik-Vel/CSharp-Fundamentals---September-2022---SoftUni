@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Text Processing - Lab\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.genruntimeconfig.cache
