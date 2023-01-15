@@ -1,0 +1,14 @@
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.exe
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.deps.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\bin\Debug\netcoreapp3.1\06. Store Boxes.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.dll
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.pdb
+C:\Users\Виктория\Desktop\SoftUni\Programming Fundamentals with C#\Objects and Classes - Lab2\06. Store Boxes\obj\Debug\netcoreapp3.1\06. Store Boxes.genruntimeconfig.cache
